@@ -1,0 +1,140 @@
+{
+  "TOWER": {
+    "token": "TOWER",
+    "buyExchange": [
+      "Kucoin",
+      "BTSE",
+      {
+        "name": "KyberSwap",
+        "network": "polygon",
+        "inputToken": {
+          "symbol": "USDT",
+          "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+          "decimals": 6
+        },
+        "outputToken": {
+          "symbol": "TOWER",
+          "address": "0x2bC07124D8dAc638E290f401046Ad584546BC47b",
+          "decimals": 18
+        }
+      },
+      {
+        "name": "KyberSwap",
+        "network": "ethereum",
+        "inputToken": {
+          "symbol": "USDT",
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "decimals": 6
+        },
+        "outputToken": {
+          "symbol": "TOWER",
+          "address": "0x1C9922314ED1415c95b9FD453c3818fd41867d0B",
+          "decimals": 18
+        }
+      },
+      {
+        "name": "Raydium",
+        "network": "solana",
+        "inputToken": {
+          "symbol": "USDT",
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "decimals": 6
+        },
+        "outputToken": {
+          "symbol": "TOWER",
+          "address": "5Ro9KjSUGYisjREz8K5uD1fMdXnu1Jfq3Ktqm4EQMc1R",
+          "decimals": 8
+        }
+      }
+    ],
+    "sellExchange": [
+      "Kucoin",
+      "Mexc",
+      {
+        "name": "KyberSwap",
+        "network": "polygon",
+        "inputToken": {
+          "symbol": "TOWER",
+          "address": "0x2bC07124D8dAc638E290f401046Ad584546BC47b",
+          "decimals": 18
+        },
+        "outputToken": {
+          "symbol": "USDT",
+          "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+          "decimals": 6
+        }
+      },
+      {
+        "name": "KyberSwap",
+        "network": "base",
+        "inputToken": {
+          "symbol": "TOWER",
+          "address": "0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee",
+          "decimals": 18
+        },
+        "outputToken": {
+          "symbol": "USDT",
+          "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+          "decimals": 6
+        }
+      },
+      {
+        "name": "KyberSwap",
+        "network": "ethereum",
+        "inputToken": {
+          "symbol": "TOWER",
+          "address": "0x1C9922314ED1415c95b9FD453c3818fd41867d0B",
+          "decimals": 18
+        },
+        "outputToken": {
+          "symbol": "USDT",
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "decimals": 6
+        }
+      },
+      {
+        "name": "Raydium",
+        "network": "solana",
+        "inputToken": {
+          "symbol": "TOWER",
+          "address": "5Ro9KjSUGYisjREz8K5uD1fMdXnu1Jfq3Ktqm4EQMc1R",
+          "decimals": 8
+        },
+        "outputToken": {
+          "symbol": "USDT",
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "decimals": 6
+        }
+      }
+    ],
+    "buyAmounts": [
+      {
+        "amount": 400,
+        "notificationThreshold": 4
+      },
+      {
+        "amount": 200,
+        "notificationThreshold": 5
+      }
+    ],
+    "Bridge": [
+      "https://wallet.polygon.technology/",
+      "https://portalbridge.com/legacy-tools/",
+      "https://superbridge.app/"
+    ],
+    "CHECK": [
+      {
+        "Eth-Pol": "https://is.gd/PVVIiw"
+      },
+      {
+        "Pol-Eth": "https://is.gd/tp0D1v"
+      },
+      {
+        "Eth-Base": "https://is.gd/evxBGf"
+      },
+      {
+        "Eth-Sol": "https://is.gd/tp0D1v"
+      }
+    ]
+  }
+}

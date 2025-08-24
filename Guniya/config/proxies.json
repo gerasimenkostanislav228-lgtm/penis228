@@ -1,0 +1,17 @@
+{
+  "flow1": "socks5://ps77126:EfqhzrDG8A@194.38.22.50:8000",
+  "flow2": "socks5://ps77126:EfqhzrDG8A@176.103.55.200:8000",
+  "flow3": "socks5://ps77126:EfqhzrDG8A@176.103.54.212:8000",
+  "flow4": "socks5://ps77126:EfqhzrDG8A@195.78.92.72:8000",
+  "flow5": "socks5://ps77126:EfqhzrDG8A@194.38.21.28:8000",
+  "flow6": "socks5://ps77126:EfqhzrDG8A@95.46.107.64:8000",
+  "flow7": "socks5://ps77126:EfqhzrDG8A@91.238.105.80:8000",
+  "flow8": "socks5://ps77126:EfqhzrDG8A@95.46.107.77:8000",
+  "flow9": "socks5://ps77126:EfqhzrDG8A@91.238.105.46:8000",
+  "flow10": "socks5://ps77126:EfqhzrDG8A@195.78.92.105:8000",
+  "flow11": "socks5://ps87616:BVCo0wh8BM@91.238.105.54:8000",
+  "flow12": "socks5://ps87616:BVCo0wh8BM@130.0.238.203:8000",
+  "flow13": "socks5://ps87616:BVCo0wh8BM@185.157.77.76:8000",
+  "flow14": "socks5://ps87616:BVCo0wh8BM@139.28.36.122:8000",
+  "flow15": "socks5://ps87616:BVCo0wh8BM@176.107.179.130:8000"
+}
